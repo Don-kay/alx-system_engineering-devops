@@ -1,1 +1,1 @@
-prints hello world on a new line
+prints confused smiley
